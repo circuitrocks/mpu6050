@@ -24,7 +24,7 @@ The GY-521 breakout has an onboard 3.3V regulator and level-shifters, so 5V on V
 
 ## How to use
 
-1. Open `basic_readout.ino` in the Arduino IDE.
+1. Open `mpu6050.ino` in the Arduino IDE.
 2. Select **Tools → Board → Arduino Uno** and the correct COM port.
 3. Click **Upload**.
 4. Open **Tools → Serial Monitor** and set the baud rate to **9600**.
