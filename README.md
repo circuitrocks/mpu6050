@@ -1,4 +1,4 @@
-# MPU6050 (GY-521)
+# MPU6050 (GY-521) — 6-axis accelerometer + gyroscope
 Sample sketch for the **MPU6050 6-axis accelerometer + gyroscope** module, sold by [Circuitrocks](https://circuit.rocks/).
 
 This example reads raw accelerometer, gyroscope, and temperature data and prints it to the Arduino Serial Monitor. It uses no external libraries — only the built-in `Wire` library — so you can see exactly how the chip is being talked to.
