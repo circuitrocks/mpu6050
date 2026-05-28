@@ -41,6 +41,11 @@ The GY-521 breakout has an onboard 3.3V regulator and level-shifters, so 5V on V
 - **All values are 0 or -1** — usually a wiring issue or the module isn't getting power. Check that the small power LED on the GY-521 is lit.
 - **Values look noisy** — that's normal for raw output. Real applications usually filter the data (e.g. complementary filter, Kalman filter) before using it.
 
+
+## Datasheet
+
+[MPU6050 datasheet & pinout (docs.circuit.rocks)](https://docs.circuit.rocks/sensors/mpu6050/)
+
 ## License
 
 This sample code is released under the MIT License — see [LICENSE](LICENSE). You can use it in your own projects, commercial or otherwise, with no restrictions.
